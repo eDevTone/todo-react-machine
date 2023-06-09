@@ -1,0 +1,8 @@
+.icon-svg {
+  width: 2rem;
+  height: 2rem;
+}
+
+.icon-delete:hover .icon-svg {
+  fill: #f44336;
+}
